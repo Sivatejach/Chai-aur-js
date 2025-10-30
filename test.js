@@ -1,0 +1,1 @@
+console.log("Hello, Chai and JS!");
