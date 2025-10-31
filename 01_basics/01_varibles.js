@@ -9,7 +9,7 @@ accountEmail="teja@example.com"
 accountPassword="54321"
 accountCity="Los Angeles"
 /*
-Prefer not to use var beacause it has function scope and can lead to unexpected behaviors.
+Prefer not to use var beacause of its issue in its function scope and can lead to unexpected behaviors.
 Use let and const for block scope variables.
 
 */
