@@ -30,4 +30,5 @@ console.log(typeof userSymbol);
 console.log(typeof null); //bug in js
 
 //null is of object type is a bug in javascript. It should be of null type
+//undefined is of undefined type
 console.table({state, count, isLoggedIn, userEmail, userId, userSymbol, userDetails});
