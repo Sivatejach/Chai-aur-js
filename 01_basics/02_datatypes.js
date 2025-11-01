@@ -5,9 +5,10 @@
 
 //int ->2 power 53
 //bigint -> larger than 2 power 53
-//null -> empty value/standalone value
-//undefined -> value not assigned
-//boolean -> true/false
+//null -> Variable exists, and I deliberately set it to empty.
+//undefined -> Variable exists, but no value assigned yet.
+//"" -> Variable has an empty string — it’s still a value.
+//boolean -> true/false or 1,0
 //string -> sequence of characters
 //symbol -> unique identifiers
 //object -> key value pairs
