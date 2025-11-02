@@ -10,3 +10,7 @@ console.log(balance.toFixed(2));
 
 const num= 23.86444
 console.log(num.toPrecision(3));
+
+
+const numberval= 1000000
+console.log(numberval.toLocaleString("en-IN"));
